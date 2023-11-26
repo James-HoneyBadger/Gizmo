@@ -1,0 +1,6 @@
+[
+    {
+        "name": "RP6502",
+        "toolchainFile": "c:\\pico6502\\rp6502-sdk\\rp6502.cmake"
+    }
+]

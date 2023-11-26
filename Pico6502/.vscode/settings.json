@@ -1,0 +1,36 @@
+{
+    "cmake.configureEnvironment": {
+        "CC65_HOME":"C:/CC65"
+    },
+    "C_Cpp.default.configurationProvider": "",
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.default.systemIncludePath": [
+        "/usr/share/cc65/include",
+    ],
+    "C_Cpp.default.defines": [
+        "__cdecl__=",
+        "__fastcall__=",
+        "asm(...)=",
+    ],
+    "[ca65]": {
+        "editor.tabSize": 8
+    },
+    "cmake.showSystemKits": false,
+    "cmake.preferredGenerators": [
+        "Unix Makefiles"
+    ],
+    "cmake.statusbar.advanced": {
+        "debug": {
+            "visibility": "hidden"
+        },
+        "launch": {
+            "visibility": "hidden"
+        },
+    },
+    "cmake.additionalCompilerSearchDirs": [
+        "c:\\msys64"
+    ],
+    "cmake.additionalKits": [
+        "c:\\pico6502\\rp6502-sdk"
+    ],
+}

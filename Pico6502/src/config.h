@@ -1,0 +1,2 @@
+#define SAVEDIR "."
+#define DATADIR "."
