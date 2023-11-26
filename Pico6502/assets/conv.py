@@ -1,9 +1,3 @@
-#!/bin/python3
-
-# Copyright (c) 2023 Rumbledethumps
-# SPDX-License-Identifier: MIT-0
-# SPDX-License-Identifier: Unlicense
-
 from PIL import Image
 
 
